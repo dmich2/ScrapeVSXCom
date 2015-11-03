@@ -1,0 +1,15 @@
+.git/
+obj/
+bin/
+packages/
+doxygen/
+ScrapeVSXCom/cache/
+~$
+\#.+\#$
+\.ncb$
+\.suo$
+\.user$
+\.orig$
+\.vsp$
+syntax: glob
+.nuget/NuGet.exe
