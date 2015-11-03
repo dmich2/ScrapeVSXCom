@@ -1,4 +1,4 @@
-## VisualStudioExtensibility.com Article Information Scraper
+## VisualStudioExtensibility.com Article Meta-Information Scraper
 ---
 
 [VisualStudioExtensibility.com](http://www.visualstudioextensibility.com/)
