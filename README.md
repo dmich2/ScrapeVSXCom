@@ -21,7 +21,7 @@ file where each article line contains:
 This file can then be imported into Microsoft Excel, Google Sheet, etc. and
 the articles filtered/sorted via any column.
 
-! [ScrapeVSXCom.csv imported into Microsoft Excel](ScrapeVSXCom.png)
+! [ScrapeVSXCom.csv imported into Microsoft Excel](ScrapeVSXCom.png?raw=true)
 
 This repo contains
 [ScrapeVSXCom.csv](ScrapeVSXCom/ScrapeVSXCom.csv?raw=true) and
