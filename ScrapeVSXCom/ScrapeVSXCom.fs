@@ -297,8 +297,7 @@ let scrapeVSXCom () =
   |> reportArticles
   |> writeTSVFile
 
-#if INTERACTIVE
-#else
+#if COMPILED
 [<EntryPoint>]
 let main argv = 
   System.IO.Directory.SetCurrentDirectory(__SOURCE_DIRECTORY__)
